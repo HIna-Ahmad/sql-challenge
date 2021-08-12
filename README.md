@@ -3,7 +3,6 @@ Data Modeling
 Inspected the CSVs and sketched out an ERD of the tables. Used tool http://www.quickdatabasediagrams.com.
 
 Data Engineering
-
 •	Created a table schema for each of the six CSV files. Specified data types, primary keys, foreign keys, and other constraints.
 
 o	Checked primary keys to ensure column is unique, otherwise created a composite key. 
