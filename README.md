@@ -1,15 +1,17 @@
 # sql-challenge
 Data Modeling
-Inspected the CSVs and sketched out an ERD of the tables. Used tool http://www.quickdatabasediagrams.com.
+
+  Inspected the CSVs and sketched out an ERD of the tables. Used tool http://www.quickdatabasediagrams.com.
 
 Data Engineering
-•	Created a table schema for each of the six CSV files. Specified data types, primary keys, foreign keys, and other constraints.
 
-o	Checked primary keys to ensure column is unique, otherwise created a composite key. 
+  •	Created a table schema for each of the six CSV files. Specified data types, primary keys, foreign keys, and other constraints.
 
-o	Created tables in the correct order to handle foreign keys.
+  o	Checked primary keys to ensure column is unique, otherwise created a composite key. 
 
-•	Imported each CSV file into the corresponding SQL table. Imported the data in the same order that the tables were created and accounted for the headers when importing to avoid errors.
+  o	Created tables in the correct order to handle foreign keys.
+
+  •	Imported each CSV file into the corresponding SQL table. Imported the data in the same order that the tables were created and accounted for the headers     when importing to avoid errors.
 
 Data Analysis
 After completing database, performed the following analysis requests:
