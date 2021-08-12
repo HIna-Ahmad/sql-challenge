@@ -14,6 +14,7 @@ Data Engineering
   •	Imported each CSV file into the corresponding SQL table. Imported the data in the same order that the tables were created and accounted for the headers     when importing to avoid errors.
 
 Data Analysis
+
 After completing database, performed the following analysis requests:
 1.	List the following details of each employee: employee number, last name, first name, sex, and salary.
 2.	List first name, last name, and hire date for employees who were hired in 1986.
